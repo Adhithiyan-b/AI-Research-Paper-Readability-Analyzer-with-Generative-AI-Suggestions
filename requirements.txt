@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+nltk
+textstat
+google-generativeai
+gunicorn
+pandas
+pytest
+joblib
